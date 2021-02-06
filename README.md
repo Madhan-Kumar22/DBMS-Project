@@ -4,4 +4,4 @@ Backend
 1) change tables (study database and make )
 
 Frontend
-2) frontend (check features and make edits)
+2) webpage (check features and make edits)
